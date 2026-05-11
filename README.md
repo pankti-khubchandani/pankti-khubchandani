@@ -1,8 +1,7 @@
 # Hey there👋, I’m Pankti
-## I’m a Software Developer.
-- 💼 I have been working with various product-based companies like Clari and Informatica for the past 6 years.
+## I’m a Senior Software Developer.
+- 💼 I have been working with various product-based companies like Agoda, Clari and Informatica for the past 8 years.
 - 🌱 I’m currently enhancing my skills in System Designing.
-- 🏆 2024 Goal: Contribute to Open Source Projects.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/pankti-khubchandani/)
 - 😄 Pronouns: She/Her
 
