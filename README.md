@@ -1,8 +1,9 @@
-# Hey there👋, I’m Pankti
+# Hey there👋, I’m Pankti Khubchandani
 ## I’m a Senior Software Engineer.
-- 💼 I have been working with various product-based companies like Agoda, Freecharge, Clari and Informatica for the past 8 years.
+- 💼 I have worked with various product-based companies like Agoda, Freecharge, Clari and Informatica for the past 8 years.
 - 🌱 I’m currently enhancing my skills in System Designing.
 - 📫 Happy to connect: [Linkedin](https://www.linkedin.com/in/pankti-khubchandani/)
+- 📧 Email: pankti.kh23@gmail.com
 
 ## About my profile:
 - I’ve worked across distributed systems and high scale backend development. My work has involved owning critical production initiatives from design to rollout across multiple microservices, building partner-facing capabilities, driving architectural improvements, improving system resilience across multi-team environments, leading root-cause analysis for complex production issues, and mentoring engineers as they grow in their careers.
